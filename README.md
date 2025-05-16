@@ -1,0 +1,2 @@
+# VolumetricSelection2077Resources
+Depot for precompiled Data for VolumetricSelection2077
